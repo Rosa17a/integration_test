@@ -4,7 +4,6 @@ package com.example.integration_test;
 import androidx.test.rule.ActivityTestRule;
 import dev.flutter.plugins.integration_test.FlutterTestRunner;
 
-import org.graalvm.compiler.core.match.MatchRule;
 import org.junit.Rule;
 import org.junit.runner.RunWith;
 // Import MainActivity from YOUR package
